@@ -44,7 +44,7 @@ int main() {
 	}
 
 	printf("%d %d %d %d %d", arr[4]);
-	qlwn
+	
 
 	return 0;
 }
